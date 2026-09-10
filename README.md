@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Jennifer 👋
 
-<!--
-**jlavelle25/jlavelle25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Current Benefits Leader, Aspiring Attorney, Powered by Coffee & Diet Coke
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 About Me
+
+* 🏫 **Education:** Currently pursuing a Human Resources Management degree at Baldwin Wallace University (Expected Graduation: December 2026
+* 🔭 **Current Focus:** Learning Management Strategy & Policy, Business Analytics, and Management Information Systems
+* 🌱 **Currently Building:** Workday Implementation for CSU (Benefits & Absence workstreams)
+* 💡 **Interests:** Finishing school, cooking & baking for my family and spending time with my baby Kay!
+* ⚡ **Fun Fact:** I've been to Ireland 5 times!
+
+---
+
+### 📌 Featured Projects
+
+Study Tracker | Interactive Study tracking tool highlighting due dates and priorities | Python & Flask & Copilot 
+(https://jlavelle25.pythonanywhere.com/)
+
+
+---
+
+
+### 📫 Connect With Me
+
+* **LinkedIn:** linkedin.com/in/jmlavelle
+* **Email:** jlavelle25@bw.edu
+
